@@ -1,0 +1,201 @@
+PatientID,Name,Age,Gender,Department,Doctor,VisitDate,Diagnosis,TreatmentCost,Insurance,LengthOfStay
+1,Dra. Daniela Barbosa,81,Female,Pediatrics,Dr. Almeida,2025-08-26,Bronchitis,8785.96,No,0
+2,Laura Moraes,66,Female,Oncology,Dr. Rocha,2024-05-18,Lung Cancer,7245.59,Yes,3
+3,Mirella Lopes,36,Female,Pediatrics,Dr. Almeida,2024-12-30,Flu,18782.57,No,7
+4,Breno Araújo,83,Female,Pediatrics,Dr. Almeida,2025-05-05,Bronchitis,10706.12,No,1
+5,Igor da Paz,38,Male,Neurology,Dr. Santos,2025-05-11,Migraine,14110.76,No,3
+6,Vitor Gabriel Castro,21,Female,Orthopedics,Dr. Martins,2024-07-23,Herniated Disc,3926.31,Yes,12
+7,Olivia Aragão,17,Female,Cardiology,Dr. Silva,2024-06-10,Hypertension,16561.72,Yes,0
+8,Lorenzo das Neves,89,Female,Oncology,Dr. Rocha,2024-09-22,Breast Cancer,15671.64,Yes,2
+9,Ana Luiza Teixeira,6,Male,Neurology,Dr. Santos,2024-12-16,Stroke,11008.94,Yes,3
+10,Elisa Pires,87,Male,Pediatrics,Dr. Almeida,2024-05-05,Flu,5870.75,No,7
+11,Luiz Felipe Barbosa,64,Male,Neurology,Dr. Santos,2025-08-27,Migraine,5830.25,No,1
+12,Sra. Ana Julia Gonçalves,11,Male,Cardiology,Dr. Silva,2025-01-07,Arrhythmia,15579.16,No,7
+13,Bárbara da Rosa,72,Female,Cardiology,Dr. Silva,2024-11-20,Hypertension,1955.57,Yes,1
+14,Alexandre Castro,14,Female,Pediatrics,Dr. Almeida,2024-06-16,Bronchitis,18353.0,Yes,7
+15,Pedro Aragão,22,Female,Orthopedics,Dr. Martins,2025-02-25,Fracture,5892.5,Yes,12
+16,Sr. Thomas Gomes,59,Male,Pediatrics,Dr. Almeida,2024-07-13,Flu,15968.01,No,7
+17,Isaac Alves,69,Male,Orthopedics,Dr. Martins,2024-06-02,Fracture,3408.0,No,7
+18,Yasmin da Conceição,6,Female,Cardiology,Dr. Silva,2024-05-22,Heart Attack,6461.92,Yes,7
+19,Davi Luiz Campos,50,Female,Oncology,Dr. Rocha,2025-07-02,Breast Cancer,17076.98,No,12
+20,Thales Gonçalves,90,Female,Pediatrics,Dr. Almeida,2025-07-03,Bronchitis,18580.88,No,3
+21,Bernardo Souza,67,Female,Oncology,Dr. Rocha,2025-03-10,Lung Cancer,10290.43,No,0
+22,Sarah Barbosa,75,Female,Neurology,Dr. Santos,2024-01-14,Migraine,17920.46,No,3
+23,Danilo Barbosa,82,Male,Oncology,Dr. Rocha,2025-03-20,Lung Cancer,14169.05,No,0
+24,Diego Pereira,22,Female,Orthopedics,Dr. Martins,2025-04-07,Herniated Disc,11174.22,No,5
+25,Thomas Farias,53,Male,Oncology,Dr. Rocha,2024-07-06,Breast Cancer,14629.98,Yes,10
+26,Maria Clara Vieira,66,Female,Neurology,Dr. Santos,2025-02-18,Stroke,16660.02,No,12
+27,Sra. Maysa da Rosa,65,Female,Pediatrics,Dr. Almeida,2025-09-09,Flu,14061.32,No,12
+28,Maria Barros,50,Female,Orthopedics,Dr. Martins,2024-06-06,Herniated Disc,1832.24,Yes,7
+29,Lucas Alves,8,Male,Orthopedics,Dr. Martins,2024-08-17,Herniated Disc,729.43,Yes,12
+30,Dr. Diego Cardoso,86,Female,Cardiology,Dr. Silva,2025-03-29,Hypertension,16244.19,Yes,5
+31,Heitor Sales,12,Male,Pediatrics,Dr. Almeida,2024-08-20,Bronchitis,10622.45,Yes,0
+32,Sr. Thiago Peixoto,29,Female,Oncology,Dr. Rocha,2024-02-26,Lung Cancer,12703.59,Yes,7
+33,Srta. Emanuella Dias,59,Male,Orthopedics,Dr. Martins,2024-09-24,Fracture,8037.95,Yes,10
+34,Raul Campos,32,Male,Orthopedics,Dr. Martins,2025-08-07,Arthritis,9963.28,No,10
+35,Ana Vitória Castro,86,Female,Cardiology,Dr. Silva,2024-03-28,Hypertension,11532.34,No,12
+36,Yago Oliveira,45,Female,Cardiology,Dr. Silva,2024-01-05,Heart Attack,7984.16,No,12
+37,Juliana Duarte,68,Male,Orthopedics,Dr. Martins,2024-07-20,Herniated Disc,15436.54,Yes,5
+38,Juliana Gomes,48,Female,Neurology,Dr. Santos,2025-04-09,Migraine,14309.3,Yes,7
+39,Ana Carolina Gonçalves,67,Male,Pediatrics,Dr. Almeida,2024-03-06,Asthma,11881.95,No,0
+40,Maria Caldeira,17,Female,Oncology,Dr. Rocha,2024-08-19,Lung Cancer,19068.12,No,0
+41,Alícia Moraes,52,Male,Pediatrics,Dr. Almeida,2024-09-01,Bronchitis,5129.8,Yes,1
+42,Pedro Miguel Pires,28,Female,Orthopedics,Dr. Martins,2024-03-17,Herniated Disc,19327.85,Yes,10
+43,Luiz Otávio Jesus,21,Female,Neurology,Dr. Santos,2025-08-12,Epilepsy,9374.9,No,12
+44,Ana Sophia Almeida,53,Male,Orthopedics,Dr. Martins,2024-07-21,Arthritis,17914.19,Yes,0
+45,Kevin das Neves,59,Male,Pediatrics,Dr. Almeida,2025-03-15,Bronchitis,18115.38,Yes,2
+46,Srta. Isabelly Sales,10,Female,Orthopedics,Dr. Martins,2025-06-10,Herniated Disc,407.96,Yes,3
+47,Maitê Castro,75,Female,Oncology,Dr. Rocha,2024-10-29,Lung Cancer,17486.88,No,0
+48,Maria Clara Cunha,88,Female,Orthopedics,Dr. Martins,2024-03-29,Herniated Disc,7027.33,Yes,12
+49,Mariane Nogueira,6,Male,Orthopedics,Dr. Martins,2024-06-05,Herniated Disc,1084.75,Yes,12
+50,Fernanda Souza,30,Male,Cardiology,Dr. Silva,2025-03-31,Heart Attack,9595.42,Yes,3
+51,Ana Carolina Sales,84,Female,Oncology,Dr. Rocha,2025-01-08,Lung Cancer,7241.7,No,2
+52,Cauê da Costa,64,Female,Oncology,Dr. Rocha,2024-11-15,Breast Cancer,10306.87,Yes,5
+53,Laís Gomes,58,Female,Orthopedics,Dr. Martins,2025-08-30,Herniated Disc,11052.37,No,3
+54,Mirella Rodrigues,58,Male,Neurology,Dr. Santos,2024-02-23,Migraine,18443.17,Yes,1
+55,Igor Nascimento,7,Female,Orthopedics,Dr. Martins,2025-04-03,Fracture,13587.96,Yes,7
+56,Beatriz da Luz,33,Female,Orthopedics,Dr. Martins,2024-07-05,Fracture,7089.41,No,5
+57,Marina Moraes,23,Male,Pediatrics,Dr. Almeida,2025-06-01,Flu,18373.55,Yes,3
+58,Sr. Eduardo Cavalcanti,22,Male,Orthopedics,Dr. Martins,2025-08-30,Arthritis,13053.19,No,5
+59,Alana Correia,75,Male,Orthopedics,Dr. Martins,2024-11-07,Herniated Disc,4441.13,No,3
+60,Ana Beatriz Castro,89,Male,Pediatrics,Dr. Almeida,2024-09-18,Bronchitis,8771.75,Yes,12
+61,Dra. Daniela Novaes,45,Female,Oncology,Dr. Rocha,2024-09-10,Lung Cancer,19083.61,Yes,12
+62,Arthur Oliveira,55,Female,Neurology,Dr. Santos,2024-09-19,Stroke,12027.39,No,7
+63,Isabella Gonçalves,60,Female,Neurology,Dr. Santos,2025-05-27,Epilepsy,8550.27,Yes,0
+64,Sr. Bryan das Neves,33,Male,Orthopedics,Dr. Martins,2024-08-26,Herniated Disc,6491.8,No,7
+65,Daniela Costa,66,Male,Oncology,Dr. Rocha,2025-07-20,Leukemia,3131.51,Yes,3
+66,Breno Fernandes,15,Female,Cardiology,Dr. Silva,2024-11-24,Hypertension,8447.58,No,10
+67,João Felipe Castro,29,Female,Pediatrics,Dr. Almeida,2025-03-28,Bronchitis,4324.48,No,5
+68,Lucas Monteiro,71,Male,Orthopedics,Dr. Martins,2024-12-24,Herniated Disc,6414.48,No,12
+69,Isabelly da Mata,65,Male,Cardiology,Dr. Silva,2025-07-27,Heart Attack,3923.97,No,0
+70,Kaique Melo,7,Female,Oncology,Dr. Rocha,2024-05-09,Leukemia,7770.02,No,2
+71,Ian Novaes,15,Male,Oncology,Dr. Rocha,2025-03-24,Leukemia,7890.44,Yes,7
+72,Luiz Gustavo Moura,5,Male,Cardiology,Dr. Silva,2025-07-22,Heart Attack,5385.31,Yes,3
+73,Sr. Joaquim Castro,60,Male,Orthopedics,Dr. Martins,2024-08-31,Herniated Disc,13402.75,Yes,7
+74,Breno Aragão,13,Female,Oncology,Dr. Rocha,2024-08-27,Leukemia,904.19,No,1
+75,Melissa Castro,13,Female,Neurology,Dr. Santos,2025-02-24,Epilepsy,15301.34,Yes,2
+76,Sophie Lima,34,Male,Pediatrics,Dr. Almeida,2025-04-01,Bronchitis,15746.24,No,2
+77,Thales Sales,31,Female,Neurology,Dr. Santos,2025-04-16,Stroke,11141.59,Yes,2
+78,André da Conceição,89,Male,Orthopedics,Dr. Martins,2024-10-31,Arthritis,4182.82,Yes,10
+79,Eduarda Rezende,34,Female,Pediatrics,Dr. Almeida,2025-03-12,Flu,16791.54,Yes,1
+80,Ana Carolina Mendes,41,Female,Orthopedics,Dr. Martins,2024-10-13,Herniated Disc,11853.26,Yes,12
+81,Sr. Fernando Moreira,10,Male,Neurology,Dr. Santos,2025-05-25,Epilepsy,15033.72,No,5
+82,Maria Barbosa,24,Male,Oncology,Dr. Rocha,2025-08-31,Leukemia,16509.8,Yes,0
+83,Ana Vitória da Paz,33,Female,Oncology,Dr. Rocha,2025-05-28,Leukemia,1516.37,Yes,10
+84,Daniel Nascimento,22,Male,Cardiology,Dr. Silva,2024-06-02,Arrhythmia,11419.02,Yes,1
+85,Erick Fogaça,17,Male,Neurology,Dr. Santos,2024-10-12,Stroke,9223.39,Yes,5
+86,Lívia Mendes,87,Female,Neurology,Dr. Santos,2024-08-12,Migraine,12729.17,Yes,3
+87,Nicole Mendes,6,Female,Pediatrics,Dr. Almeida,2024-06-14,Bronchitis,13933.3,Yes,1
+88,Emanuelly Cavalcanti,30,Female,Oncology,Dr. Rocha,2025-04-22,Breast Cancer,16220.76,Yes,0
+89,Erick Rocha,88,Male,Orthopedics,Dr. Martins,2024-07-04,Fracture,19784.25,Yes,5
+90,Luiz Otávio Nascimento,75,Male,Oncology,Dr. Rocha,2024-04-06,Breast Cancer,16314.4,Yes,2
+91,Calebe da Costa,90,Female,Pediatrics,Dr. Almeida,2025-05-15,Asthma,13867.73,No,12
+92,Alice Costa,5,Male,Orthopedics,Dr. Martins,2024-03-02,Herniated Disc,5145.47,No,3
+93,Cauã Gonçalves,70,Male,Cardiology,Dr. Silva,2024-11-03,Arrhythmia,19539.8,No,7
+94,Guilherme Silveira,15,Male,Cardiology,Dr. Silva,2024-06-03,Arrhythmia,19732.08,Yes,3
+95,Davi Luiz da Costa,67,Female,Neurology,Dr. Santos,2025-08-30,Migraine,9278.19,No,5
+96,Alana Campos,89,Male,Cardiology,Dr. Silva,2024-10-19,Heart Attack,7476.12,No,0
+97,Luiz Gustavo Ferreira,75,Male,Orthopedics,Dr. Martins,2024-01-02,Fracture,14621.43,Yes,10
+98,Dra. Carolina Caldeira,85,Male,Orthopedics,Dr. Martins,2025-05-01,Fracture,6166.56,Yes,1
+99,Ana Luiza Farias,34,Female,Orthopedics,Dr. Martins,2024-01-30,Herniated Disc,16495.69,No,7
+100,Bryan Silveira,50,Male,Orthopedics,Dr. Martins,2025-04-27,Fracture,7265.9,Yes,5
+101,Agatha Oliveira,21,Male,Oncology,Dr. Rocha,2024-11-28,Leukemia,5349.6,No,3
+102,Srta. Mariane Nunes,28,Male,Orthopedics,Dr. Martins,2024-10-22,Herniated Disc,16915.14,No,3
+103,Sra. Ana Laura Alves,68,Female,Cardiology,Dr. Silva,2024-03-27,Heart Attack,6841.44,Yes,1
+104,Breno Aragão,60,Female,Cardiology,Dr. Silva,2025-06-28,Arrhythmia,17452.5,No,1
+105,Isabella Rezende,76,Female,Cardiology,Dr. Silva,2025-05-03,Hypertension,11282.95,Yes,10
+106,Isis da Rosa,15,Female,Orthopedics,Dr. Martins,2025-03-17,Arthritis,5498.0,No,7
+107,Sra. Júlia Viana,10,Male,Pediatrics,Dr. Almeida,2025-05-23,Bronchitis,4171.41,Yes,1
+108,Bruna Porto,13,Male,Neurology,Dr. Santos,2024-05-25,Epilepsy,8550.04,Yes,2
+109,Sr. Vicente Cardoso,64,Female,Orthopedics,Dr. Martins,2024-03-01,Herniated Disc,7753.33,Yes,5
+110,Alexandre Fernandes,45,Male,Oncology,Dr. Rocha,2024-02-27,Lung Cancer,18107.66,No,10
+111,Dr. Lucas Gabriel Monteiro,47,Male,Oncology,Dr. Rocha,2025-05-04,Breast Cancer,19486.05,Yes,5
+112,Giovanna Souza,74,Male,Cardiology,Dr. Silva,2025-07-25,Heart Attack,13917.8,Yes,2
+113,João Miguel da Conceição,12,Female,Neurology,Dr. Santos,2025-09-11,Stroke,7960.89,No,10
+114,Clarice Lopes,10,Female,Orthopedics,Dr. Martins,2024-04-29,Arthritis,11048.96,Yes,0
+115,Leandro das Neves,5,Male,Orthopedics,Dr. Martins,2025-02-26,Herniated Disc,19803.86,No,3
+116,Ian Aragão,16,Male,Orthopedics,Dr. Martins,2024-09-03,Arthritis,433.78,No,1
+117,Dr. Vinicius Viana,9,Male,Cardiology,Dr. Silva,2024-10-03,Arrhythmia,9986.66,Yes,1
+118,Dr. Vinicius Azevedo,24,Male,Pediatrics,Dr. Almeida,2025-02-13,Flu,12966.52,Yes,10
+119,Maria Cecília Alves,90,Male,Orthopedics,Dr. Martins,2024-10-22,Arthritis,16389.65,No,2
+120,Kaique Ramos,11,Female,Oncology,Dr. Rocha,2024-03-05,Breast Cancer,5803.31,Yes,2
+121,Milena Oliveira,24,Female,Cardiology,Dr. Silva,2025-06-13,Heart Attack,1770.62,Yes,7
+122,Manuela Souza,54,Female,Cardiology,Dr. Silva,2025-07-29,Arrhythmia,12829.41,No,1
+123,Miguel Ferreira,64,Female,Cardiology,Dr. Silva,2024-01-04,Heart Attack,2398.81,Yes,12
+124,Giovanna Silva,68,Female,Pediatrics,Dr. Almeida,2025-08-25,Bronchitis,6829.07,Yes,0
+125,João Vitor Moura,49,Male,Cardiology,Dr. Silva,2024-02-18,Hypertension,18183.09,No,3
+126,Marcos Vinicius da Rocha,7,Female,Orthopedics,Dr. Martins,2024-07-15,Herniated Disc,12925.36,No,3
+127,Ana Costa,46,Male,Neurology,Dr. Santos,2024-09-27,Stroke,4183.05,Yes,12
+128,Enrico Porto,6,Male,Pediatrics,Dr. Almeida,2024-01-11,Asthma,9678.91,No,1
+129,Eloah Freitas,7,Female,Oncology,Dr. Rocha,2024-07-31,Lung Cancer,8297.46,Yes,1
+130,André Ramos,52,Male,Orthopedics,Dr. Martins,2024-11-23,Herniated Disc,17057.56,No,7
+131,Isabelly da Rocha,57,Male,Oncology,Dr. Rocha,2024-06-22,Leukemia,13605.05,No,2
+132,Srta. Melissa da Mota,53,Female,Neurology,Dr. Santos,2024-03-25,Epilepsy,5190.1,No,12
+133,Sra. Sabrina Porto,39,Male,Cardiology,Dr. Silva,2024-12-03,Hypertension,8899.01,Yes,10
+134,Emanuelly Ribeiro,25,Female,Cardiology,Dr. Silva,2024-07-03,Heart Attack,9792.26,No,12
+135,Sr. Vitor Gabriel Fernandes,67,Female,Oncology,Dr. Rocha,2025-03-13,Leukemia,1324.43,Yes,2
+136,Danilo Nogueira,10,Male,Neurology,Dr. Santos,2024-10-07,Epilepsy,11136.5,No,10
+137,Ian da Cruz,65,Male,Cardiology,Dr. Silva,2024-10-18,Arrhythmia,14539.91,No,2
+138,Sr. João da Conceição,48,Male,Cardiology,Dr. Silva,2025-08-01,Arrhythmia,9788.0,No,10
+139,Marcos Vinicius Mendes,4,Male,Oncology,Dr. Rocha,2024-03-17,Leukemia,2715.46,No,2
+140,Francisco da Mota,89,Female,Cardiology,Dr. Silva,2025-08-27,Hypertension,4150.35,No,1
+141,Eduardo Cavalcanti,45,Female,Orthopedics,Dr. Martins,2024-07-04,Herniated Disc,4994.57,Yes,2
+142,Srta. Laura Nascimento,69,Male,Oncology,Dr. Rocha,2025-08-21,Breast Cancer,16432.63,No,2
+143,Diego da Cunha,24,Male,Pediatrics,Dr. Almeida,2025-08-12,Flu,18417.2,Yes,2
+144,Marcela Sales,75,Male,Pediatrics,Dr. Almeida,2024-03-21,Asthma,2776.28,No,1
+145,Camila Martins,22,Female,Cardiology,Dr. Silva,2025-06-04,Heart Attack,13859.85,Yes,12
+146,Mirella Porto,56,Male,Orthopedics,Dr. Martins,2025-04-22,Fracture,13975.0,No,7
+147,Dr. Levi Rezende,61,Female,Orthopedics,Dr. Martins,2024-06-01,Arthritis,18694.2,No,1
+148,Luiz Miguel Barros,68,Female,Oncology,Dr. Rocha,2025-02-04,Leukemia,17600.62,No,12
+149,Joaquim Souza,18,Male,Cardiology,Dr. Silva,2024-07-22,Hypertension,4594.85,No,0
+150,Gabriela Cavalcanti,61,Male,Pediatrics,Dr. Almeida,2024-01-24,Asthma,1003.98,Yes,2
+151,Esther Araújo,61,Female,Neurology,Dr. Santos,2025-01-23,Migraine,19691.91,Yes,0
+152,Dra. Larissa da Mota,67,Male,Cardiology,Dr. Silva,2024-02-01,Hypertension,15702.87,Yes,3
+153,Sabrina Barros,73,Male,Orthopedics,Dr. Martins,2025-03-30,Herniated Disc,16709.36,No,0
+154,Sra. Maria Viana,86,Female,Oncology,Dr. Rocha,2025-07-08,Leukemia,6848.52,Yes,12
+155,Luiz Felipe Cardoso,83,Female,Orthopedics,Dr. Martins,2024-10-24,Arthritis,19854.18,No,1
+156,Maria Sophia Alves,45,Male,Oncology,Dr. Rocha,2024-07-26,Breast Cancer,19519.75,No,10
+157,Sr. João Pedro da Cruz,78,Male,Orthopedics,Dr. Martins,2024-05-01,Herniated Disc,6484.31,Yes,2
+158,João Lucas Teixeira,76,Male,Orthopedics,Dr. Martins,2024-03-30,Fracture,7851.56,Yes,10
+159,Noah Carvalho,49,Male,Orthopedics,Dr. Martins,2025-07-02,Herniated Disc,16893.14,Yes,1
+160,Juan Mendes,4,Female,Oncology,Dr. Rocha,2025-03-26,Lung Cancer,2705.84,Yes,12
+161,Luana Nascimento,47,Female,Orthopedics,Dr. Martins,2024-05-27,Herniated Disc,322.13,Yes,5
+162,Stella Mendes,69,Female,Neurology,Dr. Santos,2024-09-11,Epilepsy,11427.58,No,1
+163,Ryan da Luz,79,Female,Pediatrics,Dr. Almeida,2025-01-17,Flu,13307.45,No,1
+164,Luiz Otávio Barros,55,Female,Cardiology,Dr. Silva,2024-07-02,Hypertension,15971.22,Yes,0
+165,Laura Farias,8,Female,Pediatrics,Dr. Almeida,2025-08-19,Flu,4616.8,No,3
+166,Gabrielly Pinto,42,Female,Oncology,Dr. Rocha,2024-07-05,Lung Cancer,4419.94,No,0
+167,Vitor Gabriel Pires,24,Female,Cardiology,Dr. Silva,2024-05-12,Arrhythmia,3086.62,Yes,5
+168,Enrico Campos,41,Male,Orthopedics,Dr. Martins,2025-08-25,Fracture,14072.52,No,5
+169,Nicolas das Neves,38,Female,Oncology,Dr. Rocha,2024-05-31,Leukemia,17093.57,Yes,7
+170,Ana Vitória Souza,21,Female,Pediatrics,Dr. Almeida,2024-08-04,Flu,7038.69,Yes,0
+171,Camila Castro,27,Male,Oncology,Dr. Rocha,2025-01-22,Breast Cancer,7428.42,Yes,0
+172,Breno Monteiro,9,Male,Neurology,Dr. Santos,2024-12-11,Epilepsy,16699.34,No,2
+173,Luiz Henrique Aragão,54,Male,Oncology,Dr. Rocha,2025-05-06,Leukemia,4390.17,No,3
+174,Dr. Luiz Fernando da Rosa,24,Male,Oncology,Dr. Rocha,2024-07-05,Leukemia,15493.09,Yes,7
+175,Ana Lívia Silveira,50,Male,Orthopedics,Dr. Martins,2025-05-31,Fracture,18817.44,No,1
+176,Laura Novaes,80,Female,Neurology,Dr. Santos,2024-12-26,Stroke,17048.51,Yes,7
+177,Sr. Luiz Miguel Rodrigues,73,Male,Cardiology,Dr. Silva,2024-10-22,Heart Attack,8018.28,Yes,3
+178,Dr. Benício Nascimento,62,Female,Orthopedics,Dr. Martins,2024-06-25,Arthritis,16581.02,Yes,3
+179,Renan Souza,81,Male,Cardiology,Dr. Silva,2024-04-08,Heart Attack,6133.07,No,10
+180,Anthony Almeida,6,Male,Orthopedics,Dr. Martins,2024-12-27,Arthritis,3318.4,No,3
+181,Thales Barbosa,10,Male,Orthopedics,Dr. Martins,2025-07-13,Fracture,2704.24,Yes,1
+182,Leandro Almeida,52,Female,Oncology,Dr. Rocha,2024-10-13,Breast Cancer,6617.87,No,0
+183,Diogo Moura,31,Male,Oncology,Dr. Rocha,2025-05-09,Leukemia,4720.01,No,1
+184,Dra. Eloah Novaes,87,Male,Orthopedics,Dr. Martins,2025-06-15,Herniated Disc,12501.86,Yes,3
+185,Ana Luiza Dias,84,Male,Neurology,Dr. Santos,2025-09-10,Stroke,7306.83,Yes,10
+186,Laís Barbosa,64,Female,Cardiology,Dr. Silva,2024-01-06,Arrhythmia,8033.2,Yes,10
+187,Luna Mendes,47,Male,Orthopedics,Dr. Martins,2025-01-02,Herniated Disc,8959.74,Yes,1
+188,Maria Sophia Sales,15,Male,Cardiology,Dr. Silva,2024-04-28,Heart Attack,13788.74,Yes,12
+189,Helena Nogueira,34,Male,Pediatrics,Dr. Almeida,2025-03-13,Flu,15825.44,Yes,3
+190,Esther Vieira,36,Female,Oncology,Dr. Rocha,2024-12-19,Lung Cancer,17537.11,No,7
+191,Dra. Lavínia Duarte,85,Female,Neurology,Dr. Santos,2024-11-22,Migraine,3588.8,Yes,2
+192,Heitor Porto,60,Female,Neurology,Dr. Santos,2024-11-24,Epilepsy,7233.35,No,12
+193,Helena Alves,71,Female,Neurology,Dr. Santos,2025-05-10,Migraine,17802.4,Yes,1
+194,Dra. Elisa Pinto,9,Male,Neurology,Dr. Santos,2025-05-02,Migraine,712.9,No,3
+195,Stella da Cunha,89,Male,Pediatrics,Dr. Almeida,2024-02-04,Flu,5343.32,No,0
+196,Dr. Pedro Miguel Pinto,66,Female,Pediatrics,Dr. Almeida,2024-11-16,Bronchitis,18788.0,Yes,2
+197,Felipe das Neves,60,Male,Orthopedics,Dr. Martins,2024-05-26,Fracture,2809.22,Yes,12
+198,João Miguel Fogaça,56,Female,Orthopedics,Dr. Martins,2024-01-23,Herniated Disc,6462.78,Yes,0
+199,Sr. João Pedro da Luz,70,Female,Cardiology,Dr. Silva,2025-07-15,Hypertension,4033.11,Yes,0
+200,Luiz Miguel Fogaça,78,Female,Pediatrics,Dr. Almeida,2024-03-05,Flu,11702.53,Yes,7
